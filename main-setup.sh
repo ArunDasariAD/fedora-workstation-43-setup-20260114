@@ -117,6 +117,9 @@ npm install -g @google/gemini-cli
 # -----------------------------------------------------------------------------------
 echo ">> Installing GNOME Extensions..."
 
+flatpak install flathub org.gnome.Extensions
+flatpak install flathub com.mattjakeman.ExtensionManager
+
 # (Uncomment if needed) sudo dnf install -y lm_sensors
 # (Uncomment if needed) sudo sensors-detect
 
