@@ -132,7 +132,7 @@ pipx install gnome-extensions-cli --system-site-packages
 # Note: You may need to restart the shell/session for extensions to fully register
 gext install Vitals@CoreCoding.com color-picker@tuberry
 gext enable Vitals@CoreCoding.com
-gext enable color-picker@tuberry
+# gext enable color-picker@tuberry
 
 
 # -----------------------------------------------------------------------------------
