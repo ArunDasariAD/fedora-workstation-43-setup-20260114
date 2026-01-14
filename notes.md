@@ -18,10 +18,10 @@
 sudo dnf install -y git
 
 # 1. Download the repository
-git clone https://github.com/your-username/fedora-setup-2026.git
+git clone https://github.com/ArunDasariAD/fedora-workstation-43-setup-20260114.git
 
 # 2. Enter the directory
-cd fedora-setup-2026
+cd fedora-workstation-43-setup-20260114
 
 # 3. Make the scripts executable (GitHub does not always preserve permissions)
 chmod +x *.sh
