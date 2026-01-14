@@ -137,6 +137,8 @@ gext install Vitals@CoreCoding.com color-picker@tuberry
 gext enable Vitals@CoreCoding.com
 # gext enable color-picker@tuberry
 
+sudo dnf install gnome-tweaks
+sudo dnf install gnome-shell-extension-appindicator
 
 # -----------------------------------------------------------------------------------
 # Run MySQL Setup Script
